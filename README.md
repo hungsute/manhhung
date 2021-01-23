@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manhhung</h1>
-<h3 align="center">A designer and developer in VietNam</h3>
+<h1 align="center">Hi 👋, Mình là Hùng đây!🤣🤣🤣</h1>
+<h3 align="center">Mình là một người đam mê máy tính, biết về lập trình và thiết kế đồ họa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hungsute&label=Profile%20views&color=0e75b6&style=flat" alt="hungsute" /> </p>
 
